@@ -6,7 +6,7 @@
 
 </div>
 
-## 👥 Server
+## Server
 
   [Link to back-end](https://github.com/Yacoubou-seidou/hello-rails-back-end)
 
