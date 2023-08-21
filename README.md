@@ -2,11 +2,13 @@
 
 <div align="center">
 
-  <h3><b>Travelers's Hub</b></h3>
+  <h3><b>Hello react front-end</b></h3>
 
 </div>
 
-<!-- TABLE OF CONTENTS -->
+## Server
+
+  [Link to back-end](https://github.com/Yacoubou-seidou/hello-rails-back-end)
 
 # 📗 Table of Contents
 
@@ -50,8 +52,6 @@
   </ul>
 </details>
 
-<!-- Features -->
-
 ### Key Features <a name="key-features"></a>
 
 - [x] Created a web app using react-redux
@@ -63,7 +63,6 @@
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-
 ## 💻 Getting Started <a name="getting-started"></a>
 
 To get a local copy up and running, follow these steps.
@@ -71,11 +70,10 @@ To get a local copy up and running, follow these steps.
 ### Prerequisites
 
 In order to run this project you need:
-Open terminal on the same folder of the project and run:
 
-```sh
- npm install
-```
+- Text editor , example vscode
+- Navigator, example chrome
+- Node.js in your computer
 
 ### Setup
 
@@ -141,13 +139,12 @@ To check for js errors run:
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- AUTHORS -->
-
 ## 👥 Authors <a name="authors"></a>
 
 👤 **Yacoubou Seidou**
 
 - GitHub: [@Yacoubou-seidou](https://github.com/Yacoubou-seidou)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/yacoubou-seidou-chaibou/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -157,7 +154,7 @@ To check for js errors run:
 
 - [x] Add test to the project using jest
 - [x] Add the live demo for the project
-- [x] Add Styling
+- [x] Add Styles
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
